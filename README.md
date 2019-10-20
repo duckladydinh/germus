@@ -1,7 +1,7 @@
 # germus
-A Personal German-US Keyboard Layout Installer for Ubuntu
+A Personal German Layout on US Keyboard Installer for Ubuntu.
 
-I prefer the US layout, but as a German learner, typing German is inevitable and hence it would be a pain if I cannot type the umlaut character such as ä, ö, ü, Ä, Ö, Ü, and the ß. Hence I created this layout for my personal use. 
+I prefer the US layout, but as a German learner, typing German is inevitable and hence it would be a pain if I cannot type the umlaut character such as ä, ö, ü, Ä, Ö, Ü, and the ß (Right Alt + a, o, u, A, O, U, s). Hence I created this layout for my personal use. 
 
 To install it simply run 
 
