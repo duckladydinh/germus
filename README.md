@@ -9,6 +9,8 @@ To install it simply run
 sudo bash install.bash 
 ```
 
-and then Alt + F2 + R.
+and then search for English (US, Thuan) layout in Region & Language.
 
 Please note that some non-standard layouts may have been removed since I haven't updated this for a long time. It does not concern me since I am only using the standard US layout and some special German characters. Anyway, this script is for my personal use only.
+
+Browsers like Firefox and Chrome maybe closed since I also restarted the Gnome Shell.
