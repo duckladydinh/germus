@@ -7,7 +7,7 @@ cp ./us /usr/share/X11/xkb/symbols/
 cp ./evdev.xml /usr/share/X11/xkb/rules/
 
 # ctrl + alt + f2 + r
-killall gnome-shell
+# killall gnome-shell
 
 # not sure, mostly failed
 # cp ./keyboard /etc/default/keyboard
