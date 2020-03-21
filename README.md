@@ -5,8 +5,8 @@ I prefer the US layout, but as a German learner, typing German is inevitable and
 
 To install it simply run 
 
-```console
-sudo bash install.bash 
+```bash
+>> sudo bash install.bash 
 ```
 
 and then search for English (US, Thuan) layout in Region & Language.
