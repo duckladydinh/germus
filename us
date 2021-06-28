@@ -1809,7 +1809,7 @@ partial alphanumeric_keys
 // THUAN
 // US Keyboard Layout with customization
 // Reference:
-// https://askubuntu.com/questions/510024/what-are-the-steps-needed-to-create-new-keyboard-layout-on-ubuntu
+// https://askubuntu.com/questions/510024/what-are-the-steps-needed-to-create-new-keyboard-layout-on-ubuntu 
 // =====
 
 partial alphanumeric_keys
@@ -1818,6 +1818,7 @@ xkb_symbols "thuan" {
   include "us"
   name[Group1]= "English (US, Thuan)";
 
+  key <AB04> { [       v,          V,        U22BB ] };
   key <AB10> { [   slash,   question,        division,             questiondown ] };
   key <AC01> { [	   a,          A,        adiaeresis,           Adiaeresis   ] };
   key <AC02> { [	   s,          S,        ssharp,               ssharp       ] };
